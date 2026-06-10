@@ -1,1 +1,9 @@
-
+{
+  "name": "project-av3pi",
+  "private": true,
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
